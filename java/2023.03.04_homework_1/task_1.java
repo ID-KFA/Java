@@ -14,7 +14,7 @@ public class task_1 {
         }
         return result;
 
-    } reset
+    } 
 
     static long factorial(int a) {
         long result;
