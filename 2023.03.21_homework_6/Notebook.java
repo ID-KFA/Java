@@ -10,6 +10,7 @@ public class Notebook {
     //     this.OS = OS;
     //     this.color = color;
     // }
+    
     public int getMemory(){
         return memory;
     }

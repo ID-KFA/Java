@@ -8,6 +8,7 @@ import java.util.*;
 // NoteBook notebook3 = new NoteBook
 // NoteBook notebook4 = new NoteBook
 // NoteBook notebook5 = new NoteBook
+//
 
 // Например: “Введите цифру, соответствующую необходимому критерию:
 // 1 - ОЗУ
